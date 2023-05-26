@@ -683,3 +683,5 @@
 - ### :film_projector: [Slides on Mathematics for Computer Science by Tom Leighton and Marten van Dijk](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/)
 
 - ### :film_projector: [Slides on Mathematics in Toys and Games by Jing Li, Erik Demaine and Melissa Gymrek](https://ocw.mit.edu/courses/es-268-the-mathematics-in-toys-and-games-spring-2010/)
+
+- ### :book: [Everything You Always Wanted To Know About Mathematics: A Guided Journey Into the World of Abstract Mathematics and the Writing of Proofs by Brendan Sullivan](https://www.math.cmu.edu/~jmackey/151_128/bws_book.pdf)
