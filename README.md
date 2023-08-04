@@ -114,6 +114,8 @@
 
 - ### :tv: [Videos by Robert Harper](https://www.youtube.com/playlist?list=PL1-2D_rCQBarjdqnM21sOsx09CtFSVO6Z)
 
+- ### :book: [Book by Jencel Panic](https://abuseofnotation.github.io/category-theory-illustrated/)
+
 - ### :book: [Book by Bartosz Milewski](https://github.com/hmemcpy/milewski-ctfp-pdf/)
 
 - ### :tv: [Videos by Bartosz Milewski](https://www.youtube.com/user/DrBartosz/playlists)
