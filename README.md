@@ -666,6 +666,8 @@
 
 - ### :book: [Symmetry Book by Marc Bezem and others](https://github.com/UniMath/SymmetryBook)
 
+- ### :writing_hand: [EuclideanSpace - Mathematics and Computing by Martin Baker](https://euclideanspace.com/)
+
 - ### :tv: [Chaos Videos by Jos Leys, Étienne Ghys and Aurélien Alvarez](https://www.chaos-math.org/en.html)
 
 - ### :film_projector: [Slides on Discrete Structures and Probability by Robert Lewis](https://cs22.cafe/)
