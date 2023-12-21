@@ -426,6 +426,8 @@
 
 ## :robot: [Machine Learning](https://github.com/tensorush/Awesome-Maths-Learning/blob/master/Machine-Learning)
 
+- ### :tv: [Videos by Sebastian Peitz and Oliver Wallscheid](https://www.youtube.com/@UPB_DS4DS-bu8ec/playlists)
+
 - ### :tv: [Videos by David Dye](https://www.youtube.com/playlist?list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3)
 
 - ### :tv: [Videos by AI Institute](https://www.youtube.com/playlist?list=PLD7HFcN7LXRe30qq36It2XCljxc340O_d)
