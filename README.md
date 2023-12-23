@@ -672,6 +672,8 @@
 
 - ### :tv: [Chaos Videos by Jos Leys, Étienne Ghys and Aurélien Alvarez](https://www.chaos-math.org/en.html)
 
+- ### :thought_balloon: [Web Site on 4D Geometry Visualization by H.S. Teoh](https://www.qfbox.info/4d/vis/vis)
+
 - ### :film_projector: [Slides on Discrete Structures and Probability by Robert Lewis](https://cs22.cafe/)
 
 - ### :tv: [Videos on Introduction to Higher Mathematics by Bill Shillito](https://www.youtube.com/playlist?list=PLZzHxk_TPOStgPtqRZ6KzmkUQBQ8TSWVX)
