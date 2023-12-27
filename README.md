@@ -108,6 +108,8 @@
 
 - ### :film_projector: [Slides by Andrew Pitts](https://www.cl.cam.ac.uk/teaching/2122/CAT/)
 
+- ### :tv: [Videos by John Baez and others](https://www.youtube.com/playlist?list=PLuAO-1XXEh0b7M2nMqwmENPgzAuoRrkIX)
+
 - ### :tv: [Videos by Jeremy Mann](https://www.youtube.com/playlist?list=PLtiFxYEaQEcjabR9lRBvMlfs9TgGZXwKV)
 
 - ### :tv: [Videos by Varun Malladi](https://www.youtube.com/playlist?list=PLR8CgI6LLTKT7WcouQpJqs5Goxxkkz39G)
