@@ -566,7 +566,7 @@
 
 - ### :writing_hand: [Notes by Anna Brandenberger](https://github.com/tensorush/Awesome-Maths-Learning/blob/master/Probability-Theory/brandenberger.pdf) — [Original Source](https://github.com/abrandenberger/course-notes/blob/master/MATH-323-notes.pdf)
 
-- ### :black_joker: [Cheatsheet by Max Kasperowski](https://github.com/tensorush/Awesome-Maths-Learning/blob/master/Probability-Theory/chen_and_blitzstein.pdf) — [Original Source](https://github.com/wzchen/probability_cheatsheet)
+- ### :black_joker: [Cheatsheet by Max Kasperowski](https://github.com/tensorush/Awesome-Maths-Learning/blob/master/Probability-Theory/chen_and_blitzstein.pdf) — [Original Source](https://github.com/Eddykasp/maths-cheatsheets)
 
 - ### :black_joker: [Cheatsheet by William Chen and Joe Blitzstein](https://github.com/tensorush/Awesome-Maths-Learning/blob/master/Probability-Theory/chen_and_blitzstein.pdf) — [Original Source](https://github.com/wzchen/probability_cheatsheet)
 
