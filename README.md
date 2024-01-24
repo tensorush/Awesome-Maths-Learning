@@ -668,6 +668,8 @@
 
 - ### :tv: [Videos on Tensor Calculus by Robert Davie](https://www.youtube.com/playlist?list=PLeFwDGOexoe-FLX3kEMSkoWG6Cuck_8Xb)
 
+- ### :book: [How Euler Did It Book by Ed Sandifer](http://eulerarchive.maa.org/hedi/index.html)
+
 - ### :book: [Symmetry Book by Marc Bezem and others](https://github.com/UniMath/SymmetryBook)
 
 - ### :writing_hand: [EuclideanSpace - Mathematics and Computing by Martin Baker](https://euclideanspace.com/)
