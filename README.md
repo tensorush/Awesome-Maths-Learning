@@ -364,7 +364,7 @@
 
 - ### :tv: [Videos by Mathematical Monk](https://www.youtube.com/playlist?list=PLE125425EC837021F)
 
-- ### :thought_balloon: [Blog post by Lê Nguyên Hoang](http://www.science4all.org/article/shannons-information-theory/)
+- ### :thought_balloon: [Blog Post by Lê Nguyên Hoang](http://www.science4all.org/article/shannons-information-theory/)
 
 - ### :black_joker: [Cheatsheet by Hugo Touchette](Information-Theory/touchette.pdf)
 
@@ -424,7 +424,9 @@
 
 - ### :black_joker: [Cheatsheet by Ivan Savov](Linear-Algebra/savov_cheatsheet.pdf) and [Concept maps by Ivan Savov](Linear-Algebra/savov_concept_maps.pdf) — [Original Source](https://minireference.com/)
 
-- ### :joystick: [Interactive visualizations by Jacob Ström, Kalle Åström and Tomas Akenine-Möller](http://immersivemath.com/ila/tableofcontents.html)
+- ### :joystick: [Interactive Visualizations by Vinay Sisodia and Jo Hsu](https://www.linearalgebraforprogrammers.com/)
+
+- ### :joystick: [Interactive Visualizations by Jacob Ström, Kalle Åström and Tomas Akenine-Möller](http://immersivemath.com/ila/tableofcontents.html)
 
 ## :robot: [Machine Learning](Machine-Learning)
 
